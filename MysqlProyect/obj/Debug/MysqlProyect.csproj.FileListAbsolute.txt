@@ -1,0 +1,162 @@
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\MysqlProyect.dll.config
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\MysqlProyect.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\MysqlProyect.pdb
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\csc.exe
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\csc.exe.config
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\csc.rsp
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\csi.exe
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\csi.exe.config
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\csi.rsp
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.AppContext.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Console.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.IO.Compression.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Net.Http.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Net.Sockets.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.ValueTuple.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\vbc.exe
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\vbc.exe.config
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\vbc.rsp
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\VBCSCompiler.exe
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\BouncyCastle.Crypto.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\Google.Protobuf.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\K4os.Compression.LZ4.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\K4os.Hash.xxHash.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\MySql.Data.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\System.Buffers.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\System.Memory.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\System.Numerics.Vectors.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\Ubiety.Dns.Core.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\Zstandard.Net.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\Google.Protobuf.pdb
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\Google.Protobuf.xml
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\K4os.Compression.LZ4.xml
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\K4os.Hash.xxHash.xml
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\MySql.Data.xml
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\System.Buffers.xml
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\System.Memory.xml
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\System.Numerics.Vectors.xml
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.csprojAssemblyReference.cache
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.csproj.CoreCompileInputs.cache
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.csproj.CopyComplete
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.dll
+C:\Users\luant\source\repos\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.pdb
+E:\Descargas c\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.csproj.CoreCompileInputs.cache
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\MysqlProyect.dll.config
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\MysqlProyect.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\MysqlProyect.pdb
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\csc.exe
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\csc.exe.config
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\csc.rsp
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\csi.exe
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\csi.exe.config
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\csi.rsp
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.AppContext.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Collections.Immutable.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Console.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Globalization.Calendars.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.IO.Compression.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.IO.FileSystem.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Net.Http.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Net.Sockets.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Reflection.Metadata.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.ValueTuple.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Xml.XPath.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\vbc.exe
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\vbc.exe.config
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\vbc.rsp
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\VBCSCompiler.exe
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\roslyn\VBCSCompiler.exe.config
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\BouncyCastle.Crypto.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\Google.Protobuf.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\K4os.Compression.LZ4.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\K4os.Compression.LZ4.Streams.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\K4os.Hash.xxHash.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\MySql.Data.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\System.Buffers.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\System.Memory.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\System.Numerics.Vectors.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\Ubiety.Dns.Core.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\Zstandard.Net.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\Google.Protobuf.pdb
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\Google.Protobuf.xml
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\K4os.Compression.LZ4.xml
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\K4os.Compression.LZ4.Streams.xml
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\K4os.Hash.xxHash.xml
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\MySql.Data.xml
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\System.Buffers.xml
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\System.Memory.xml
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\System.Numerics.Vectors.xml
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Descargas c\MysqlProyect\MysqlProyect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Descargas c\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.csproj.CopyComplete
+E:\Descargas c\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.dll
+E:\Descargas c\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.pdb
+E:\Descargas c\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.csprojAssemblyReference.cache
