@@ -159,4 +159,3 @@ E:\Descargas c\MysqlProyect\MysqlProyect\bin\Microsoft.CodeDom.Providers.DotNetC
 E:\Descargas c\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.csproj.CopyComplete
 E:\Descargas c\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.dll
 E:\Descargas c\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.pdb
-E:\Descargas c\MysqlProyect\MysqlProyect\obj\Debug\MysqlProyect.csprojAssemblyReference.cache

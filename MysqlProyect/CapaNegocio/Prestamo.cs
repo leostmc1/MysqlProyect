@@ -14,11 +14,11 @@ namespace MysqlProyect.CapaNegocio
         private static MySqlConnection conexion = new MySqlConnection(cadena);
         public bool Actualizar(string codAutor, string codLibro, string fecha)
         {
-            string consulta = "update tprestamo set CodLibro = @CodLibro, FechaPrestamo = @FechaPrestamo where CodAutor = @CodAutor";
+            string consulta = "update tprestamo set FechaPrestamo = @FechaPrestamo where CodAutor = @CodAutor and CodLibro = @CodLibro";
             MySqlCommand comando = new MySqlCommand(consulta, conexion);
             comando.Parameters.AddWithValue("@CodAutor", codAutor);
             comando.Parameters.AddWithValue("@CodLibro", codLibro);
-            comando.Parameters.AddWithValue("@FechaPrestamo", fecha);
+            comando.Parameters.AddWithValue("@FechaPrestamo", DateTime.Parse(fecha));
             conexion.Open();
             var result = comando.ExecuteScalar();
             bool i = result != null ? (int)result > 0 : true;
@@ -32,7 +32,7 @@ namespace MysqlProyect.CapaNegocio
             MySqlCommand comando = new MySqlCommand(consulta, conexion);
             comando.Parameters.AddWithValue("@CodAutor", codAutor);
             comando.Parameters.AddWithValue("@CodLibro", codLibro);
-            comando.Parameters.AddWithValue("@FechaPrestamo", fecha);
+            comando.Parameters.AddWithValue("@FechaPrestamo", DateTime.Parse(fecha));
             conexion.Open();
             var result = comando.ExecuteScalar();
             bool i = result != null ? (int)result > 0 : true;
@@ -45,10 +45,12 @@ namespace MysqlProyect.CapaNegocio
             throw new NotImplementedException();
         }
 
-        public bool Eliminar(string codAutor)
+        public bool Eliminar(string codAutor, string codLibro)
         {
-            string consulta = "delete from tprestamo where codAutor='" + codAutor + "'";
+            string consulta = "delete from tprestamo where CodAutor=@CodAutor and CodLibro=@CodLibro";
             MySqlCommand comando = new MySqlCommand(consulta, conexion);
+            comando.Parameters.AddWithValue("@CodAutor", codAutor);
+            comando.Parameters.AddWithValue("@CodLibro", codLibro);
             conexion.Open();
             var result = comando.ExecuteScalar();
             bool i = result != null ? (int)result > 0 : true;

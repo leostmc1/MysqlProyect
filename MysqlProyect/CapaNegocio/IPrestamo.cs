@@ -12,7 +12,7 @@ namespace MysqlProyect.CapaNegocio
 
         bool Agregar(string codAutor, string codLibro, string fecha);
 
-        bool Eliminar(string codAutor);
+        bool Eliminar(string codAutor,string codLibro);
 
         bool Actualizar(string codAutor, string codLibro, string fecha);
 

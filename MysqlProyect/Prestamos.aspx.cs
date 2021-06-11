@@ -85,10 +85,12 @@ namespace MysqlProyect
         protected void btnEliminar_Click(object sender, EventArgs e)
         {
             string codAutor = txtcodAutor.Text.Trim();
-            Autor listar = new Autor();
+            string codLibro = txtcodLibro.Text.Trim();
+          
+            Prestamo listar = new Prestamo();
             try
             {
-                Boolean respuesta = listar.Eliminar(codAutor);
+                Boolean respuesta = listar.Eliminar(codAutor, codLibro);
                 if (respuesta == true)
                 {
                     Response.Write("<script>alert('Eliminado Correctamente')</script>");
